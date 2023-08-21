@@ -15,9 +15,12 @@ Q2 | ANALYZE THE AVERAGE AQI BASED ON STATE NAME
 Q3 | ANALYZE THE OBSERVATION COUNT AND ARTHEMETIC MEAN BY STATE NAME
 Q4 | ANALYZE THE EFFECT OF EVENT TYPE ON AQI?
 
-sample of the sheets :
-
+samples:
 ![Screenshot 2023-08-21 143938](https://github.com/marwh22/data_visualization/assets/85491809/db8ff9d7-1664-421b-bcf3-564f1d76270e)
+
+We can see that Arizona has the darkest shade which means the highest (AQI). and the higher the number the more polluted the air quality can be. 
+but it became harder to differentiate the other states due to the color similarity.
+the AQI can be seen to associated with the area of the state too. 
 
 ![Screenshot 2023-08-21 144000](https://github.com/marwh22/data_visualization/assets/85491809/331d8d86-bf7f-475b-930f-d56cee5adb5b)
 
